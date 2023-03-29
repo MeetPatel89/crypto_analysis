@@ -1,0 +1,317 @@
+JobTitle	Rate	SalariedFlag	max_rate	mod_rate_1	mod_rate_0
+Accountant	26.4423	1	26.4423	26.4423	NULL
+Accountant	26.4423	1	26.4423	26.4423	NULL
+Accounts Manager	34.7356	1	34.7356	34.7356	NULL
+Accounts Payable Specialist	19.00	0	19.00	NULL	19.00
+Accounts Payable Specialist	19.00	0	19.00	NULL	19.00
+Accounts Receivable Specialist	19.00	0	19.00	NULL	19.00
+Accounts Receivable Specialist	19.00	0	19.00	NULL	19.00
+Accounts Receivable Specialist	19.00	0	19.00	NULL	19.00
+Application Specialist	27.4038	1	27.4038	27.4038	NULL
+Application Specialist	27.4038	1	27.4038	27.4038	NULL
+Application Specialist	27.4038	1	27.4038	27.4038	NULL
+Application Specialist	27.4038	1	27.4038	27.4038	NULL
+Assistant to the Chief Financial Officer	13.4615	0	13.4615	NULL	13.4615
+Benefits Specialist	16.5865	0	16.5865	NULL	16.5865
+Buyer	18.2692	0	18.2692	NULL	18.2692
+Buyer	18.2692	0	18.2692	NULL	18.2692
+Buyer	18.2692	0	18.2692	NULL	18.2692
+Buyer	18.2692	0	18.2692	NULL	18.2692
+Buyer	18.2692	0	18.2692	NULL	18.2692
+Buyer	18.2692	0	18.2692	NULL	18.2692
+Buyer	18.2692	0	18.2692	NULL	18.2692
+Buyer	18.2692	0	18.2692	NULL	18.2692
+Buyer	18.2692	0	18.2692	NULL	18.2692
+Chief Executive Officer	125.50	1	125.50	125.50	NULL
+Chief Financial Officer	39.06	1	60.0962	39.06	NULL
+Chief Financial Officer	48.5577	1	60.0962	48.5577	NULL
+Chief Financial Officer	60.0962	1	60.0962	60.0962	NULL
+Control Specialist	16.8269	0	16.8269	NULL	16.8269
+Control Specialist	16.8269	0	16.8269	NULL	16.8269
+Database Administrator	38.4615	1	38.4615	38.4615	NULL
+Database Administrator	38.4615	1	38.4615	38.4615	NULL
+Design Engineer	32.6923	1	32.6923	32.6923	NULL
+Design Engineer	32.6923	1	32.6923	32.6923	NULL
+Design Engineer	32.6923	1	32.6923	32.6923	NULL
+Document Control Assistant	10.25	0	10.25	NULL	10.25
+Document Control Assistant	10.25	0	10.25	NULL	10.25
+Document Control Manager	17.7885	0	17.7885	NULL	17.7885
+Engineering Manager	43.2692	1	43.2692	43.2692	NULL
+European Sales Manager	48.101	1	48.101	48.101	NULL
+Facilities Administrative Assistant	9.75	0	9.75	NULL	9.75
+Facilities Manager	24.0385	1	24.0385	24.0385	NULL
+Finance Manager	43.2692	1	43.2692	43.2692	NULL
+Human Resources Administrative Assistant	13.9423	0	13.9423	NULL	13.9423
+Human Resources Administrative Assistant	13.9423	0	13.9423	NULL	13.9423
+Human Resources Manager	27.1394	1	27.1394	27.1394	NULL
+Information Services Manager	50.4808	1	50.4808	50.4808	NULL
+Janitor	9.25	0	9.25	NULL	9.25
+Janitor	9.25	0	9.25	NULL	9.25
+Janitor	9.25	0	9.25	NULL	9.25
+Janitor	9.25	0	9.25	NULL	9.25
+Maintenance Supervisor	20.4327	1	20.4327	20.4327	NULL
+Marketing Assistant	13.4615	0	13.4615	NULL	13.4615
+Marketing Assistant	13.4615	0	13.4615	NULL	13.4615
+Marketing Assistant	13.4615	0	13.4615	NULL	13.4615
+Marketing Manager	24.00	1	37.50	24.00	NULL
+Marketing Manager	28.75	1	37.50	28.75	NULL
+Marketing Manager	37.50	1	37.50	37.50	NULL
+Marketing Specialist	14.4231	0	14.4231	NULL	14.4231
+Marketing Specialist	14.4231	0	14.4231	NULL	14.4231
+Marketing Specialist	14.4231	0	14.4231	NULL	14.4231
+Marketing Specialist	14.4231	0	14.4231	NULL	14.4231
+Marketing Specialist	14.4231	0	14.4231	NULL	14.4231
+Master Scheduler	23.5577	0	23.5577	NULL	23.5577
+Network Administrator	32.4519	0	32.4519	NULL	32.4519
+Network Administrator	32.4519	0	32.4519	NULL	32.4519
+Network Manager	39.6635	1	39.6635	39.6635	NULL
+North American Sales Manager	48.101	1	48.101	48.101	NULL
+Pacific Sales Manager	48.101	1	48.101	48.101	NULL
+Production Control Manager	24.5192	1	24.5192	24.5192	NULL
+Production Supervisor - WC10	25.00	0	25.00	NULL	25.00
+Production Supervisor - WC10	25.00	0	25.00	NULL	25.00
+Production Supervisor - WC10	25.00	0	25.00	NULL	25.00
+Production Supervisor - WC20	25.00	0	25.00	NULL	25.00
+Production Supervisor - WC20	25.00	0	25.00	NULL	25.00
+Production Supervisor - WC20	25.00	0	25.00	NULL	25.00
+Production Supervisor - WC30	25.00	0	25.00	NULL	25.00
+Production Supervisor - WC30	25.00	0	25.00	NULL	25.00
+Production Supervisor - WC30	25.00	0	25.00	NULL	25.00
+Production Supervisor - WC40	25.00	0	25.00	NULL	25.00
+Production Supervisor - WC40	25.00	0	25.00	NULL	25.00
+Production Supervisor - WC40	25.00	0	25.00	NULL	25.00
+Production Supervisor - WC45	25.00	0	25.00	NULL	25.00
+Production Supervisor - WC45	25.00	0	25.00	NULL	25.00
+Production Supervisor - WC45	25.00	0	25.00	NULL	25.00
+Production Supervisor - WC50	25.00	0	25.00	NULL	25.00
+Production Supervisor - WC50	25.00	0	25.00	NULL	25.00
+Production Supervisor - WC50	25.00	0	25.00	NULL	25.00
+Production Supervisor - WC60	25.00	0	25.00	NULL	25.00
+Production Supervisor - WC60	25.00	0	25.00	NULL	25.00
+Production Supervisor - WC60	25.00	0	25.00	NULL	25.00
+Production Technician - WC10	13.45	0	13.45	NULL	13.45
+Production Technician - WC10	13.45	0	13.45	NULL	13.45
+Production Technician - WC10	13.45	0	13.45	NULL	13.45
+Production Technician - WC10	13.45	0	13.45	NULL	13.45
+Production Technician - WC10	13.45	0	13.45	NULL	13.45
+Production Technician - WC10	13.45	0	13.45	NULL	13.45
+Production Technician - WC10	13.45	0	13.45	NULL	13.45
+Production Technician - WC10	13.45	0	13.45	NULL	13.45
+Production Technician - WC10	13.45	0	13.45	NULL	13.45
+Production Technician - WC10	13.45	0	13.45	NULL	13.45
+Production Technician - WC10	13.45	0	13.45	NULL	13.45
+Production Technician - WC10	13.45	0	13.45	NULL	13.45
+Production Technician - WC10	13.45	0	13.45	NULL	13.45
+Production Technician - WC10	13.45	0	13.45	NULL	13.45
+Production Technician - WC10	13.45	0	13.45	NULL	13.45
+Production Technician - WC10	13.45	0	13.45	NULL	13.45
+Production Technician - WC10	13.45	0	13.45	NULL	13.45
+Production Technician - WC20	14.00	0	14.00	NULL	14.00
+Production Technician - WC20	14.00	0	14.00	NULL	14.00
+Production Technician - WC20	14.00	0	14.00	NULL	14.00
+Production Technician - WC20	14.00	0	14.00	NULL	14.00
+Production Technician - WC20	14.00	0	14.00	NULL	14.00
+Production Technician - WC20	14.00	0	14.00	NULL	14.00
+Production Technician - WC20	14.00	0	14.00	NULL	14.00
+Production Technician - WC20	14.00	0	14.00	NULL	14.00
+Production Technician - WC20	14.00	0	14.00	NULL	14.00
+Production Technician - WC20	14.00	0	14.00	NULL	14.00
+Production Technician - WC20	14.00	0	14.00	NULL	14.00
+Production Technician - WC20	14.00	0	14.00	NULL	14.00
+Production Technician - WC20	14.00	0	14.00	NULL	14.00
+Production Technician - WC20	14.00	0	14.00	NULL	14.00
+Production Technician - WC20	14.00	0	14.00	NULL	14.00
+Production Technician - WC20	14.00	0	14.00	NULL	14.00
+Production Technician - WC20	14.00	0	14.00	NULL	14.00
+Production Technician - WC20	14.00	0	14.00	NULL	14.00
+Production Technician - WC20	14.00	0	14.00	NULL	14.00
+Production Technician - WC20	14.00	0	14.00	NULL	14.00
+Production Technician - WC20	14.00	0	14.00	NULL	14.00
+Production Technician - WC20	14.00	0	14.00	NULL	14.00
+Production Technician - WC30	6.50	0	9.50	NULL	6.50
+Production Technician - WC30	6.50	0	9.50	NULL	6.50
+Production Technician - WC30	6.50	0	9.50	NULL	6.50
+Production Technician - WC30	6.50	0	9.50	NULL	6.50
+Production Technician - WC30	6.50	0	9.50	NULL	6.50
+Production Technician - WC30	6.50	0	9.50	NULL	6.50
+Production Technician - WC30	6.50	0	9.50	NULL	6.50
+Production Technician - WC30	6.75	0	9.50	NULL	6.75
+Production Technician - WC30	7.00	0	9.50	NULL	7.00
+Production Technician - WC30	7.25	0	9.50	NULL	7.25
+Production Technician - WC30	7.25	0	9.50	NULL	7.25
+Production Technician - WC30	7.25	0	9.50	NULL	7.25
+Production Technician - WC30	7.25	0	9.50	NULL	7.25
+Production Technician - WC30	7.25	0	9.50	NULL	7.25
+Production Technician - WC30	7.25	0	9.50	NULL	7.25
+Production Technician - WC30	7.25	0	9.50	NULL	7.25
+Production Technician - WC30	9.50	0	9.50	NULL	9.50
+Production Technician - WC30	9.50	0	9.50	NULL	9.50
+Production Technician - WC30	9.50	0	9.50	NULL	9.50
+Production Technician - WC30	9.50	0	9.50	NULL	9.50
+Production Technician - WC30	9.50	0	9.50	NULL	9.50
+Production Technician - WC30	9.50	0	9.50	NULL	9.50
+Production Technician - WC30	9.50	0	9.50	NULL	9.50
+Production Technician - WC30	9.50	0	9.50	NULL	9.50
+Production Technician - WC30	9.50	0	9.50	NULL	9.50
+Production Technician - WC30	9.50	0	9.50	NULL	9.50
+Production Technician - WC30	9.50	0	9.50	NULL	9.50
+Production Technician - WC30	9.50	0	9.50	NULL	9.50
+Production Technician - WC30	9.50	0	9.50	NULL	9.50
+Production Technician - WC30	9.50	0	9.50	NULL	9.50
+Production Technician - WC30	9.50	0	9.50	NULL	9.50
+Production Technician - WC30	9.50	0	9.50	NULL	9.50
+Production Technician - WC30	9.50	0	9.50	NULL	9.50
+Production Technician - WC30	9.50	0	9.50	NULL	9.50
+Production Technician - WC30	9.50	0	9.50	NULL	9.50
+Production Technician - WC30	9.50	0	9.50	NULL	9.50
+Production Technician - WC30	9.50	0	9.50	NULL	9.50
+Production Technician - WC30	9.50	0	9.50	NULL	9.50
+Production Technician - WC30	9.50	0	9.50	NULL	9.50
+Production Technician - WC30	9.50	0	9.50	NULL	9.50
+Production Technician - WC30	9.50	0	9.50	NULL	9.50
+Production Technician - WC40	15.00	0	15.00	NULL	15.00
+Production Technician - WC40	15.00	0	15.00	NULL	15.00
+Production Technician - WC40	15.00	0	15.00	NULL	15.00
+Production Technician - WC40	15.00	0	15.00	NULL	15.00
+Production Technician - WC40	15.00	0	15.00	NULL	15.00
+Production Technician - WC40	15.00	0	15.00	NULL	15.00
+Production Technician - WC40	15.00	0	15.00	NULL	15.00
+Production Technician - WC40	15.00	0	15.00	NULL	15.00
+Production Technician - WC40	15.00	0	15.00	NULL	15.00
+Production Technician - WC40	15.00	0	15.00	NULL	15.00
+Production Technician - WC40	15.00	0	15.00	NULL	15.00
+Production Technician - WC40	15.00	0	15.00	NULL	15.00
+Production Technician - WC40	15.00	0	15.00	NULL	15.00
+Production Technician - WC40	15.00	0	15.00	NULL	15.00
+Production Technician - WC40	15.00	0	15.00	NULL	15.00
+Production Technician - WC40	15.00	0	15.00	NULL	15.00
+Production Technician - WC40	15.00	0	15.00	NULL	15.00
+Production Technician - WC40	15.00	0	15.00	NULL	15.00
+Production Technician - WC40	15.00	0	15.00	NULL	15.00
+Production Technician - WC40	15.00	0	15.00	NULL	15.00
+Production Technician - WC40	15.00	0	15.00	NULL	15.00
+Production Technician - WC40	15.00	0	15.00	NULL	15.00
+Production Technician - WC40	15.00	0	15.00	NULL	15.00
+Production Technician - WC40	15.00	0	15.00	NULL	15.00
+Production Technician - WC40	15.00	0	15.00	NULL	15.00
+Production Technician - WC40	15.00	0	15.00	NULL	15.00
+Production Technician - WC45	10.00	0	10.00	NULL	10.00
+Production Technician - WC45	10.00	0	10.00	NULL	10.00
+Production Technician - WC45	10.00	0	10.00	NULL	10.00
+Production Technician - WC45	10.00	0	10.00	NULL	10.00
+Production Technician - WC45	10.00	0	10.00	NULL	10.00
+Production Technician - WC45	10.00	0	10.00	NULL	10.00
+Production Technician - WC45	10.00	0	10.00	NULL	10.00
+Production Technician - WC45	10.00	0	10.00	NULL	10.00
+Production Technician - WC45	10.00	0	10.00	NULL	10.00
+Production Technician - WC45	10.00	0	10.00	NULL	10.00
+Production Technician - WC45	10.00	0	10.00	NULL	10.00
+Production Technician - WC45	10.00	0	10.00	NULL	10.00
+Production Technician - WC45	10.00	0	10.00	NULL	10.00
+Production Technician - WC45	10.00	0	10.00	NULL	10.00
+Production Technician - WC45	10.00	0	10.00	NULL	10.00
+Production Technician - WC50	11.00	0	11.00	NULL	11.00
+Production Technician - WC50	11.00	0	11.00	NULL	11.00
+Production Technician - WC50	11.00	0	11.00	NULL	11.00
+Production Technician - WC50	11.00	0	11.00	NULL	11.00
+Production Technician - WC50	11.00	0	11.00	NULL	11.00
+Production Technician - WC50	11.00	0	11.00	NULL	11.00
+Production Technician - WC50	11.00	0	11.00	NULL	11.00
+Production Technician - WC50	11.00	0	11.00	NULL	11.00
+Production Technician - WC50	11.00	0	11.00	NULL	11.00
+Production Technician - WC50	11.00	0	11.00	NULL	11.00
+Production Technician - WC50	11.00	0	11.00	NULL	11.00
+Production Technician - WC50	11.00	0	11.00	NULL	11.00
+Production Technician - WC50	11.00	0	11.00	NULL	11.00
+Production Technician - WC50	11.00	0	11.00	NULL	11.00
+Production Technician - WC50	11.00	0	11.00	NULL	11.00
+Production Technician - WC50	11.00	0	11.00	NULL	11.00
+Production Technician - WC50	11.00	0	11.00	NULL	11.00
+Production Technician - WC50	11.00	0	11.00	NULL	11.00
+Production Technician - WC50	11.00	0	11.00	NULL	11.00
+Production Technician - WC50	11.00	0	11.00	NULL	11.00
+Production Technician - WC50	11.00	0	11.00	NULL	11.00
+Production Technician - WC50	11.00	0	11.00	NULL	11.00
+Production Technician - WC50	11.00	0	11.00	NULL	11.00
+Production Technician - WC50	11.00	0	11.00	NULL	11.00
+Production Technician - WC50	11.00	0	11.00	NULL	11.00
+Production Technician - WC50	11.00	0	11.00	NULL	11.00
+Production Technician - WC60	12.45	0	12.45	NULL	12.45
+Production Technician - WC60	12.45	0	12.45	NULL	12.45
+Production Technician - WC60	12.45	0	12.45	NULL	12.45
+Production Technician - WC60	12.45	0	12.45	NULL	12.45
+Production Technician - WC60	12.45	0	12.45	NULL	12.45
+Production Technician - WC60	12.45	0	12.45	NULL	12.45
+Production Technician - WC60	12.45	0	12.45	NULL	12.45
+Production Technician - WC60	12.45	0	12.45	NULL	12.45
+Production Technician - WC60	12.45	0	12.45	NULL	12.45
+Production Technician - WC60	12.45	0	12.45	NULL	12.45
+Production Technician - WC60	12.45	0	12.45	NULL	12.45
+Production Technician - WC60	12.45	0	12.45	NULL	12.45
+Production Technician - WC60	12.45	0	12.45	NULL	12.45
+Production Technician - WC60	12.45	0	12.45	NULL	12.45
+Production Technician - WC60	12.45	0	12.45	NULL	12.45
+Production Technician - WC60	12.45	0	12.45	NULL	12.45
+Production Technician - WC60	12.45	0	12.45	NULL	12.45
+Production Technician - WC60	12.45	0	12.45	NULL	12.45
+Production Technician - WC60	12.45	0	12.45	NULL	12.45
+Production Technician - WC60	12.45	0	12.45	NULL	12.45
+Production Technician - WC60	12.45	0	12.45	NULL	12.45
+Production Technician - WC60	12.45	0	12.45	NULL	12.45
+Production Technician - WC60	12.45	0	12.45	NULL	12.45
+Production Technician - WC60	12.45	0	12.45	NULL	12.45
+Production Technician - WC60	12.45	0	12.45	NULL	12.45
+Production Technician - WC60	12.45	0	12.45	NULL	12.45
+Purchasing Assistant	12.75	0	12.75	NULL	12.75
+Purchasing Assistant	12.75	0	12.75	NULL	12.75
+Purchasing Manager	9.86	1	30.00	9.86	NULL
+Purchasing Manager	22.50	1	30.00	22.50	NULL
+Purchasing Manager	30.00	1	30.00	30.00	NULL
+Quality Assurance Manager	28.8462	1	28.8462	28.8462	NULL
+Quality Assurance Supervisor	21.6346	1	21.6346	21.6346	NULL
+Quality Assurance Technician	10.5769	0	10.5769	NULL	10.5769
+Quality Assurance Technician	10.5769	0	10.5769	NULL	10.5769
+Quality Assurance Technician	10.5769	0	10.5769	NULL	10.5769
+Quality Assurance Technician	10.5769	0	10.5769	NULL	10.5769
+Recruiter	18.2692	0	18.2692	NULL	18.2692
+Recruiter	18.2692	0	18.2692	NULL	18.2692
+Research and Development Engineer	40.8654	1	40.8654	40.8654	NULL
+Research and Development Engineer	40.8654	1	40.8654	40.8654	NULL
+Research and Development Manager	42.4808	1	50.4808	42.4808	NULL
+Research and Development Manager	50.4808	1	50.4808	50.4808	NULL
+Sales Representative	23.0769	1	23.0769	23.0769	NULL
+Sales Representative	23.0769	1	23.0769	23.0769	NULL
+Sales Representative	23.0769	1	23.0769	23.0769	NULL
+Sales Representative	23.0769	1	23.0769	23.0769	NULL
+Sales Representative	23.0769	1	23.0769	23.0769	NULL
+Sales Representative	23.0769	1	23.0769	23.0769	NULL
+Sales Representative	23.0769	1	23.0769	23.0769	NULL
+Sales Representative	23.0769	1	23.0769	23.0769	NULL
+Sales Representative	23.0769	1	23.0769	23.0769	NULL
+Sales Representative	23.0769	1	23.0769	23.0769	NULL
+Sales Representative	23.0769	1	23.0769	23.0769	NULL
+Sales Representative	23.0769	1	23.0769	23.0769	NULL
+Sales Representative	23.0769	1	23.0769	23.0769	NULL
+Sales Representative	23.0769	1	23.0769	23.0769	NULL
+Scheduling Assistant	8.62	0	16.00	NULL	8.62
+Scheduling Assistant	13.50	0	16.00	NULL	13.50
+Scheduling Assistant	16.00	0	16.00	NULL	16.00
+Scheduling Assistant	16.00	0	16.00	NULL	16.00
+Scheduling Assistant	16.00	0	16.00	NULL	16.00
+Scheduling Assistant	16.00	0	16.00	NULL	16.00
+Senior Design Engineer	36.0577	1	36.0577	36.0577	NULL
+Senior Tool Designer	8.62	0	29.8462	NULL	8.62
+Senior Tool Designer	23.72	0	29.8462	NULL	23.72
+Senior Tool Designer	28.8462	0	29.8462	NULL	28.8462
+Senior Tool Designer	29.8462	0	29.8462	NULL	29.8462
+Shipping and Receiving Clerk	9.50	0	9.50	NULL	9.50
+Shipping and Receiving Clerk	9.50	0	9.50	NULL	9.50
+Shipping and Receiving Supervisor	19.2308	1	19.2308	19.2308	NULL
+Stocker	9.00	0	9.00	NULL	9.00
+Stocker	9.00	0	9.00	NULL	9.00
+Stocker	9.00	0	9.00	NULL	9.00
+Tool Designer	25.00	0	25.00	NULL	25.00
+Tool Designer	25.00	0	25.00	NULL	25.00
+Vice President of Engineering	63.4615	1	63.4615	63.4615	NULL
+Vice President of Production	84.1346	1	84.1346	84.1346	NULL
+Vice President of Sales	72.1154	1	72.1154	72.1154	NULL
